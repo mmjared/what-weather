@@ -1,0 +1,22 @@
+{
+  "name": "what-weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmjared/what-weather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmjared/what-weather/issues"
+  },
+  "homepage": "https://github.com/mmjared/what-weather#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.0"
+  }
+}
